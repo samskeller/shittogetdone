@@ -13,3 +13,15 @@ __pycache__/
 
 # PyCharm 
 .idea/
+
+# Swap files from vim
+*.swp
+
+# Tags from ctags
+tags
+
+# ag.vim ignore file
+.agignore
+
+# vim session
+Session.vim
